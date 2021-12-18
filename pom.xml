@@ -25,12 +25,12 @@
     <semantic-metrics.version>1.0.2</semantic-metrics.version>
     <metrics.version>4.0.2</metrics.version>
     <opencensus.version>0.25.0</opencensus.version>
-    <google.client.lib.version>1.30.8</google.client.lib.version>
+    <google.client.lib.version>v1-rev20210519-1.32.1</google.client.lib.version>
     <google.http.client.lib.version>1.34.2</google.http.client.lib.version>
     <auto-matter.version>0.15.3</auto-matter.version>
     <auto-value.version>1.7</auto-value.version>
     <hamcrest.version>2.2</hamcrest.version>
-    <errorprone.version>2.3.4</errorprone.version>
+    <errorprone.version>2.8.1</errorprone.version>
     <grpc.version>1.27.2</grpc.version>
   </properties>
 
