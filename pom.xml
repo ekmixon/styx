@@ -30,7 +30,7 @@
     <auto-matter.version>0.15.3</auto-matter.version>
     <auto-value.version>1.7</auto-value.version>
     <hamcrest.version>2.2</hamcrest.version>
-    <errorprone.version>2.3.4</errorprone.version>
+    <errorprone.version>2.11.0</errorprone.version>
     <grpc.version>1.27.2</grpc.version>
   </properties>
 
