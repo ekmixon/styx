@@ -1,1 +1,2 @@
 flytekit==0.14.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
