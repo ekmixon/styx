@@ -363,7 +363,7 @@
       <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-expression</artifactId>
-        <version>5.2.4.RELEASE</version>
+        <version>6.2.10</version>
       </dependency>
       <!-- to support list in env var -->
       <dependency>
